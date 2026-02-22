@@ -10,16 +10,16 @@ It is intended for **portfolio showcase and UI practice**.
 
 <p align="center">
   <img src="assets/screenshot/card.jpeg" width="200"/>
-  <img src="assets/screenshots/screen2.png" width="200"/>
-  <img src="assets/screenshots/screen3.png" width="200"/>
-  <img src="assets/screenshots/screen4.png" width="200"/>
+  <img src="assets/screenshots/cridet.jpeg" width="200"/>
+  <img src="assets/screenshots/hoome.jpeg" width="200"/>
+  <img src="assets/screenshots/login.jpeg" width="200"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screen5.png" width="200"/>
-  <img src="assets/screenshots/screen6.png" width="200"/>
-  <img src="assets/screenshots/screen7.png" width="200"/>
-  <img src="assets/screenshots/screen8.png" width="200"/>
+  <img src="assets/screenshots/otp.jpeg" width="200"/>
+  <img src="assets/screenshots/profil.jpeg" width="200"/>
+  <img src="assets/screenshots/static.jpeg" width="200"/>
+  <img src="assets/screenshots/welcome.jpeg" width="200"/>
 </p>
 
 ---
